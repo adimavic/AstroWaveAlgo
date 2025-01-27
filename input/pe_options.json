@@ -1,0 +1,5350 @@
+{
+    "HINDUNILVR": [
+        {
+            "pSymbol": "111376",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2120",
+            "pTrdSymbol": "HINDUNILVR24AUG2120PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111378",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2160",
+            "pTrdSymbol": "HINDUNILVR24AUG2160PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111380",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "HINDUNILVR24AUG2200PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111382",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2240",
+            "pTrdSymbol": "HINDUNILVR24AUG2240PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111384",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "HINDUNILVR24AUG2280PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111386",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "HINDUNILVR24AUG2320PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111388",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "HINDUNILVR24AUG2360PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111390",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "HINDUNILVR24AUG2400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111392",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "HINDUNILVR24AUG2440PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111460",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "HINDUNILVR24AUG2480PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111462",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "HINDUNILVR24AUG2520PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111472",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "HINDUNILVR24AUG2560PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111474",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "HINDUNILVR24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111476",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "HINDUNILVR24AUG2640PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111482",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "HINDUNILVR24AUG2680PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111484",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "HINDUNILVR24AUG2720PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111486",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "HINDUNILVR24AUG2760PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111488",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "HINDUNILVR24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111492",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "HINDUNILVR24AUG2840PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "111494",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "HINDUNILVR24AUG2880PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122763",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2260",
+            "pTrdSymbol": "HINDUNILVR24AUG2260PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122767",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2300",
+            "pTrdSymbol": "HINDUNILVR24AUG2300PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122769",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2340",
+            "pTrdSymbol": "HINDUNILVR24AUG2340PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122771",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2380",
+            "pTrdSymbol": "HINDUNILVR24AUG2380PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122773",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2420",
+            "pTrdSymbol": "HINDUNILVR24AUG2420PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122775",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "HINDUNILVR24AUG2460PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122778",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "HINDUNILVR24AUG2500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122780",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "HINDUNILVR24AUG2540PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122783",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "HINDUNILVR24AUG2580PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122787",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "HINDUNILVR24AUG2620PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122799",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "HINDUNILVR24AUG2660PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122803",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "HINDUNILVR24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "122814",
+            "pSymbolName": "HINDUNILVR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "HINDUNILVR24AUG2740PE",
+            "lLotSize": 300
+        }
+    ],
+    "TVSMOTOR": [
+        {
+            "pSymbol": "147958",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "1960",
+            "pTrdSymbol": "TVSMOTOR24AUG1960PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147960",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2000",
+            "pTrdSymbol": "TVSMOTOR24AUG2000PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147962",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2040",
+            "pTrdSymbol": "TVSMOTOR24AUG2040PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147964",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2080",
+            "pTrdSymbol": "TVSMOTOR24AUG2080PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147966",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2120",
+            "pTrdSymbol": "TVSMOTOR24AUG2120PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147968",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2160",
+            "pTrdSymbol": "TVSMOTOR24AUG2160PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147970",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "TVSMOTOR24AUG2200PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147972",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2240",
+            "pTrdSymbol": "TVSMOTOR24AUG2240PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147974",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "TVSMOTOR24AUG2280PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147976",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "TVSMOTOR24AUG2320PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147978",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "TVSMOTOR24AUG2360PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147980",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "TVSMOTOR24AUG2400PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147982",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "TVSMOTOR24AUG2440PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147984",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "TVSMOTOR24AUG2480PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147986",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "TVSMOTOR24AUG2520PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147988",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "TVSMOTOR24AUG2560PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147990",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "TVSMOTOR24AUG2600PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147992",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "TVSMOTOR24AUG2640PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147994",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "TVSMOTOR24AUG2680PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "147996",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "TVSMOTOR24AUG2720PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154788",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2100",
+            "pTrdSymbol": "TVSMOTOR24AUG2100PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154790",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2140",
+            "pTrdSymbol": "TVSMOTOR24AUG2140PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154792",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2180",
+            "pTrdSymbol": "TVSMOTOR24AUG2180PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154794",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2220",
+            "pTrdSymbol": "TVSMOTOR24AUG2220PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154796",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2260",
+            "pTrdSymbol": "TVSMOTOR24AUG2260PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154798",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2300",
+            "pTrdSymbol": "TVSMOTOR24AUG2300PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154800",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2340",
+            "pTrdSymbol": "TVSMOTOR24AUG2340PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154802",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2380",
+            "pTrdSymbol": "TVSMOTOR24AUG2380PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154804",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2420",
+            "pTrdSymbol": "TVSMOTOR24AUG2420PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154806",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "TVSMOTOR24AUG2460PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154808",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "TVSMOTOR24AUG2500PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154810",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "TVSMOTOR24AUG2540PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "154812",
+            "pSymbolName": "TVSMOTOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "TVSMOTOR24AUG2580PE",
+            "lLotSize": 350
+        }
+    ],
+    "PIDILITIND": [
+        {
+            "pSymbol": "150706",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "PIDILITIND24AUG2860PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150708",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "PIDILITIND24AUG2900PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150710",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "PIDILITIND24AUG2940PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150712",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "PIDILITIND24AUG2980PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150714",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3020",
+            "pTrdSymbol": "PIDILITIND24AUG3020PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150716",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3060",
+            "pTrdSymbol": "PIDILITIND24AUG3060PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150718",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "PIDILITIND24AUG3100PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150720",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3140",
+            "pTrdSymbol": "PIDILITIND24AUG3140PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150722",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3180",
+            "pTrdSymbol": "PIDILITIND24AUG3180PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150724",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3220",
+            "pTrdSymbol": "PIDILITIND24AUG3220PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150726",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3260",
+            "pTrdSymbol": "PIDILITIND24AUG3260PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150728",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "PIDILITIND24AUG3300PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150730",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3340",
+            "pTrdSymbol": "PIDILITIND24AUG3340PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "150732",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3380",
+            "pTrdSymbol": "PIDILITIND24AUG3380PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132734",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "PIDILITIND24AUG2600PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132736",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "PIDILITIND24AUG2640PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132738",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "PIDILITIND24AUG2680PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132740",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "PIDILITIND24AUG2720PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132742",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "PIDILITIND24AUG2760PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132756",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "PIDILITIND24AUG2800PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132758",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "PIDILITIND24AUG2840PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132760",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "PIDILITIND24AUG2880PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132780",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "PIDILITIND24AUG2920PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132782",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "PIDILITIND24AUG2960PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132784",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "PIDILITIND24AUG3000PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132786",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "PIDILITIND24AUG3040PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132788",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "PIDILITIND24AUG3080PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132790",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "PIDILITIND24AUG3120PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132792",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "PIDILITIND24AUG3160PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132794",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "PIDILITIND24AUG3200PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132796",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3240",
+            "pTrdSymbol": "PIDILITIND24AUG3240PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132798",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3280",
+            "pTrdSymbol": "PIDILITIND24AUG3280PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132800",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3320",
+            "pTrdSymbol": "PIDILITIND24AUG3320PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132802",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3360",
+            "pTrdSymbol": "PIDILITIND24AUG3360PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132804",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "PIDILITIND24AUG3400PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132806",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3440",
+            "pTrdSymbol": "PIDILITIND24AUG3440PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132808",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3480",
+            "pTrdSymbol": "PIDILITIND24AUG3480PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132810",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3520",
+            "pTrdSymbol": "PIDILITIND24AUG3520PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132812",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3560",
+            "pTrdSymbol": "PIDILITIND24AUG3560PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132814",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3600",
+            "pTrdSymbol": "PIDILITIND24AUG3600PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "132816",
+            "pSymbolName": "PIDILITIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3640",
+            "pTrdSymbol": "PIDILITIND24AUG3640PE",
+            "lLotSize": 250
+        }
+    ],
+    "INDIAMART": [
+        {
+            "pSymbol": "113990",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "INDIAMART24AUG2280PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "113992",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "INDIAMART24AUG2320PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "113994",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "INDIAMART24AUG2360PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "113996",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "INDIAMART24AUG2400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "113998",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "INDIAMART24AUG2440PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114000",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "INDIAMART24AUG2480PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114002",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "INDIAMART24AUG2520PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114006",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "INDIAMART24AUG2560PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114012",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "INDIAMART24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114014",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "INDIAMART24AUG2640PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114016",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "INDIAMART24AUG2680PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114018",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "INDIAMART24AUG2720PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114020",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "INDIAMART24AUG2760PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114022",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "INDIAMART24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114024",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "INDIAMART24AUG2840PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114026",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "INDIAMART24AUG2880PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114028",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "INDIAMART24AUG2920PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114030",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "INDIAMART24AUG2960PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114032",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "INDIAMART24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114034",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "INDIAMART24AUG3040PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "114036",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "INDIAMART24AUG3080PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127556",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "INDIAMART24AUG2460PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127558",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "INDIAMART24AUG2500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127560",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "INDIAMART24AUG2540PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127562",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "INDIAMART24AUG2580PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127564",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "INDIAMART24AUG2620PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127566",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "INDIAMART24AUG2660PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127568",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "INDIAMART24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127570",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "INDIAMART24AUG2740PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127572",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "INDIAMART24AUG2780PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127574",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "INDIAMART24AUG2820PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127576",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "INDIAMART24AUG2860PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "127578",
+            "pSymbolName": "INDIAMART",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "INDIAMART24AUG2900PE",
+            "lLotSize": 300
+        }
+    ],
+    "SHRIRAMFIN": [
+        {
+            "pSymbol": "137282",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "137292",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "137331",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "137341",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "SHRIRAMFIN24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "137347",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "SHRIRAMFIN24AUG3200PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152548",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152550",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2550",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2550PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152552",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2650",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2650PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152554",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152556",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2750",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2750PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152558",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2850",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2850PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152560",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2900PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152562",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2950",
+            "pTrdSymbol": "SHRIRAMFIN24AUG2950PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152564",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3050",
+            "pTrdSymbol": "SHRIRAMFIN24AUG3050PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152566",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "SHRIRAMFIN24AUG3100PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152568",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3150",
+            "pTrdSymbol": "SHRIRAMFIN24AUG3150PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "152572",
+            "pSymbolName": "SHRIRAMFIN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "SHRIRAMFIN24AUG3300PE",
+            "lLotSize": 300
+        }
+    ],
+    "MPHASIS": [
+        {
+            "pSymbol": "143694",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2250",
+            "pTrdSymbol": "MPHASIS24AUG2250PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "143744",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2350",
+            "pTrdSymbol": "MPHASIS24AUG2350PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "143746",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2450",
+            "pTrdSymbol": "MPHASIS24AUG2450PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "143810",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2550",
+            "pTrdSymbol": "MPHASIS24AUG2550PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "143812",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2650",
+            "pTrdSymbol": "MPHASIS24AUG2650PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "143814",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2750",
+            "pTrdSymbol": "MPHASIS24AUG2750PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127692",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2100",
+            "pTrdSymbol": "MPHASIS24AUG2100PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127694",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "MPHASIS24AUG2200PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127696",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2300",
+            "pTrdSymbol": "MPHASIS24AUG2300PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127698",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "MPHASIS24AUG2400PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127700",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "MPHASIS24AUG2500PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127702",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "MPHASIS24AUG2600PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127704",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "MPHASIS24AUG2700PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127708",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "MPHASIS24AUG2800PE",
+            "lLotSize": 275
+        },
+        {
+            "pSymbol": "127710",
+            "pSymbolName": "MPHASIS",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "MPHASIS24AUG2900PE",
+            "lLotSize": 275
+        }
+    ],
+    "RELIANCE": [
+        {
+            "pSymbol": "134723",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "RELIANCE24AUG2600PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134725",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "RELIANCE24AUG2640PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134727",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "RELIANCE24AUG2680PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134729",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "RELIANCE24AUG2720PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134731",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "RELIANCE24AUG2760PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134733",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "RELIANCE24AUG2800PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134735",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "RELIANCE24AUG2840PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134737",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "RELIANCE24AUG2880PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134739",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "RELIANCE24AUG2920PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134741",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "RELIANCE24AUG2960PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134743",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "RELIANCE24AUG3000PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134745",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "RELIANCE24AUG3040PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134747",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "RELIANCE24AUG3080PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134749",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "RELIANCE24AUG3120PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134751",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "RELIANCE24AUG3160PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134753",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "RELIANCE24AUG3200PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134755",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3240",
+            "pTrdSymbol": "RELIANCE24AUG3240PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134757",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3280",
+            "pTrdSymbol": "RELIANCE24AUG3280PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134759",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3320",
+            "pTrdSymbol": "RELIANCE24AUG3320PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134761",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3360",
+            "pTrdSymbol": "RELIANCE24AUG3360PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134763",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "RELIANCE24AUG3400PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134765",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3440",
+            "pTrdSymbol": "RELIANCE24AUG3440PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134767",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3480",
+            "pTrdSymbol": "RELIANCE24AUG3480PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134769",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3520",
+            "pTrdSymbol": "RELIANCE24AUG3520PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "134771",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3560",
+            "pTrdSymbol": "RELIANCE24AUG3560PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151668",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "RELIANCE24AUG2900PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151670",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "RELIANCE24AUG2940PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151672",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "RELIANCE24AUG2980PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151674",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3020",
+            "pTrdSymbol": "RELIANCE24AUG3020PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151676",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3060",
+            "pTrdSymbol": "RELIANCE24AUG3060PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151678",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "RELIANCE24AUG3100PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151680",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3140",
+            "pTrdSymbol": "RELIANCE24AUG3140PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151682",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3180",
+            "pTrdSymbol": "RELIANCE24AUG3180PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151684",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3220",
+            "pTrdSymbol": "RELIANCE24AUG3220PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151686",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3260",
+            "pTrdSymbol": "RELIANCE24AUG3260PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151688",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "RELIANCE24AUG3300PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151690",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3340",
+            "pTrdSymbol": "RELIANCE24AUG3340PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "151692",
+            "pSymbolName": "RELIANCE",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3380",
+            "pTrdSymbol": "RELIANCE24AUG3380PE",
+            "lLotSize": 250
+        }
+    ],
+    "ADANIENT": [
+        {
+            "pSymbol": "79746",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "ADANIENT24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79748",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "ADANIENT24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79750",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "ADANIENT24AUG2900PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79752",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "ADANIENT24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79754",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "ADANIENT24AUG3100PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79756",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "ADANIENT24AUG3200PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79758",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "ADANIENT24AUG3300PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79769",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "ADANIENT24AUG3400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79781",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3500",
+            "pTrdSymbol": "ADANIENT24AUG3500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79785",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3600",
+            "pTrdSymbol": "ADANIENT24AUG3600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79793",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3700",
+            "pTrdSymbol": "ADANIENT24AUG3700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91886",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2850",
+            "pTrdSymbol": "ADANIENT24AUG2850PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91888",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2950",
+            "pTrdSymbol": "ADANIENT24AUG2950PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91890",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3050",
+            "pTrdSymbol": "ADANIENT24AUG3050PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91892",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3150",
+            "pTrdSymbol": "ADANIENT24AUG3150PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91894",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3250",
+            "pTrdSymbol": "ADANIENT24AUG3250PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91896",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3350",
+            "pTrdSymbol": "ADANIENT24AUG3350PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91898",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3450",
+            "pTrdSymbol": "ADANIENT24AUG3450PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91900",
+            "pSymbolName": "ADANIENT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3550",
+            "pTrdSymbol": "ADANIENT24AUG3550PE",
+            "lLotSize": 300
+        }
+    ],
+    "ACC": [
+        {
+            "pSymbol": "79289",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "ACC24AUG2200PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79293",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2240",
+            "pTrdSymbol": "ACC24AUG2240PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79297",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "ACC24AUG2280PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79301",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "ACC24AUG2320PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79305",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "ACC24AUG2360PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79309",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "ACC24AUG2400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79313",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "ACC24AUG2440PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79324",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "ACC24AUG2480PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79330",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "ACC24AUG2520PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79332",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "ACC24AUG2560PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79334",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "ACC24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79366",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "ACC24AUG2640PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79404",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "ACC24AUG2680PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79406",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "ACC24AUG2720PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79413",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "ACC24AUG2760PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79417",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "ACC24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79421",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "ACC24AUG2840PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79425",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "ACC24AUG2880PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79429",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "ACC24AUG2920PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79431",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "ACC24AUG2960PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79433",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "ACC24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79435",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "ACC24AUG3040PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79500",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "ACC24AUG3080PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79502",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "ACC24AUG3120PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "79504",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "ACC24AUG3160PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91337",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2380",
+            "pTrdSymbol": "ACC24AUG2380PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91339",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2420",
+            "pTrdSymbol": "ACC24AUG2420PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91341",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "ACC24AUG2460PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91347",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "ACC24AUG2500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91349",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "ACC24AUG2540PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91351",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "ACC24AUG2580PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91353",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "ACC24AUG2620PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91355",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "ACC24AUG2660PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91359",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "ACC24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91361",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "ACC24AUG2740PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91364",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "ACC24AUG2780PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91480",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "ACC24AUG2820PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91482",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "ACC24AUG2860PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91484",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "ACC24AUG2900PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91486",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "ACC24AUG2940PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91490",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "ACC24AUG2980PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91492",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3020",
+            "pTrdSymbol": "ACC24AUG3020PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91494",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3060",
+            "pTrdSymbol": "ACC24AUG3060PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91496",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "ACC24AUG3100PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "91498",
+            "pSymbolName": "ACC",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3140",
+            "pTrdSymbol": "ACC24AUG3140PE",
+            "lLotSize": 300
+        }
+    ],
+    "ASIANPAINT": [
+        {
+            "pSymbol": "94978",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "ASIANPAINT24AUG2700PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94980",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "ASIANPAINT24AUG2740PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94982",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "ASIANPAINT24AUG2780PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94984",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "ASIANPAINT24AUG2820PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94986",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "ASIANPAINT24AUG2860PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94988",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "ASIANPAINT24AUG2900PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94990",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "ASIANPAINT24AUG2940PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94992",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "ASIANPAINT24AUG2980PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94994",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3020",
+            "pTrdSymbol": "ASIANPAINT24AUG3020PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94996",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3060",
+            "pTrdSymbol": "ASIANPAINT24AUG3060PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "94998",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "ASIANPAINT24AUG3100PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "95000",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3140",
+            "pTrdSymbol": "ASIANPAINT24AUG3140PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82479",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "ASIANPAINT24AUG2480PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82486",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "ASIANPAINT24AUG2520PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82492",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "ASIANPAINT24AUG2560PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82499",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "ASIANPAINT24AUG2600PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82501",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "ASIANPAINT24AUG2640PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82520",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "ASIANPAINT24AUG2680PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82522",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "ASIANPAINT24AUG2720PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82524",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "ASIANPAINT24AUG2760PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82535",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "ASIANPAINT24AUG2800PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82565",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "ASIANPAINT24AUG2840PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82594",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "ASIANPAINT24AUG2880PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82596",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "ASIANPAINT24AUG2920PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82598",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "ASIANPAINT24AUG2960PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82600",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "ASIANPAINT24AUG3000PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82646",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "ASIANPAINT24AUG3040PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82648",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "ASIANPAINT24AUG3080PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82650",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "ASIANPAINT24AUG3120PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82652",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "ASIANPAINT24AUG3160PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82654",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "ASIANPAINT24AUG3200PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82656",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3240",
+            "pTrdSymbol": "ASIANPAINT24AUG3240PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82658",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3280",
+            "pTrdSymbol": "ASIANPAINT24AUG3280PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82660",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3320",
+            "pTrdSymbol": "ASIANPAINT24AUG3320PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "82662",
+            "pSymbolName": "ASIANPAINT",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3360",
+            "pTrdSymbol": "ASIANPAINT24AUG3360PE",
+            "lLotSize": 200
+        }
+    ],
+    "GRASIM": [
+        {
+            "pSymbol": "106261",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "GRASIM24AUG2320PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106263",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "GRASIM24AUG2360PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106265",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "GRASIM24AUG2400PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106267",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "GRASIM24AUG2440PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106269",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "GRASIM24AUG2480PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106271",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "GRASIM24AUG2520PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106273",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "GRASIM24AUG2560PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106275",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "GRASIM24AUG2600PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106277",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "GRASIM24AUG2640PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106279",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "GRASIM24AUG2680PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106281",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "GRASIM24AUG2720PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106370",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "GRASIM24AUG2760PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106372",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "GRASIM24AUG2800PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106374",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "GRASIM24AUG2840PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106376",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "GRASIM24AUG2880PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106383",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "GRASIM24AUG2920PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106403",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "GRASIM24AUG2960PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106405",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "GRASIM24AUG3000PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106407",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "GRASIM24AUG3040PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "106411",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "GRASIM24AUG3120PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "52136",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "GRASIM24AUG3080PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119294",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "GRASIM24AUG2460PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119296",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "GRASIM24AUG2500PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119298",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "GRASIM24AUG2540PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119300",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "GRASIM24AUG2580PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119442",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "GRASIM24AUG2620PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119490",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "GRASIM24AUG2660PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119558",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "GRASIM24AUG2700PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119560",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "GRASIM24AUG2740PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119562",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "GRASIM24AUG2780PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119564",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "GRASIM24AUG2820PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119566",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "GRASIM24AUG2860PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119570",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "GRASIM24AUG2900PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119572",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "GRASIM24AUG2940PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "119574",
+            "pSymbolName": "GRASIM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "GRASIM24AUG2980PE",
+            "lLotSize": 250
+        }
+    ],
+    "BALKRISIND": [
+        {
+            "pSymbol": "99056",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "BALKRISIND24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99060",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2850",
+            "pTrdSymbol": "BALKRISIND24AUG2850PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99062",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "BALKRISIND24AUG2900PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99064",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2950",
+            "pTrdSymbol": "BALKRISIND24AUG2950PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99066",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3050",
+            "pTrdSymbol": "BALKRISIND24AUG3050PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99068",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "BALKRISIND24AUG3100PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99070",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3150",
+            "pTrdSymbol": "BALKRISIND24AUG3150PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99072",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3250",
+            "pTrdSymbol": "BALKRISIND24AUG3250PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99074",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "BALKRISIND24AUG3300PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99076",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3350",
+            "pTrdSymbol": "BALKRISIND24AUG3350PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99078",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3450",
+            "pTrdSymbol": "BALKRISIND24AUG3450PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99080",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3500",
+            "pTrdSymbol": "BALKRISIND24AUG3500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99082",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3550",
+            "pTrdSymbol": "BALKRISIND24AUG3550PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "99086",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3700",
+            "pTrdSymbol": "BALKRISIND24AUG3700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "86353",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "BALKRISIND24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "86514",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "BALKRISIND24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "86564",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "BALKRISIND24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "86576",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "BALKRISIND24AUG3200PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "86586",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "BALKRISIND24AUG3400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "86596",
+            "pSymbolName": "BALKRISIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3600",
+            "pTrdSymbol": "BALKRISIND24AUG3600PE",
+            "lLotSize": 300
+        }
+    ],
+    "SRF": [
+        {
+            "pSymbol": "138279",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2000",
+            "pTrdSymbol": "SRF24AUG2000PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138281",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2040",
+            "pTrdSymbol": "SRF24AUG2040PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138283",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2080",
+            "pTrdSymbol": "SRF24AUG2080PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138285",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2120",
+            "pTrdSymbol": "SRF24AUG2120PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138287",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2160",
+            "pTrdSymbol": "SRF24AUG2160PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138289",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "SRF24AUG2200PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138291",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2240",
+            "pTrdSymbol": "SRF24AUG2240PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138293",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "SRF24AUG2280PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138295",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "SRF24AUG2320PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138297",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "SRF24AUG2360PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138299",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "SRF24AUG2400PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138301",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "SRF24AUG2440PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138303",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "SRF24AUG2480PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138305",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "SRF24AUG2520PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138307",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "SRF24AUG2560PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138309",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "SRF24AUG2600PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138311",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "SRF24AUG2640PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138313",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "SRF24AUG2680PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138315",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "SRF24AUG2720PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138317",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "SRF24AUG2760PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138319",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "SRF24AUG2800PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "138321",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "SRF24AUG2840PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152774",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2180",
+            "pTrdSymbol": "SRF24AUG2180PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152776",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2220",
+            "pTrdSymbol": "SRF24AUG2220PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152778",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2260",
+            "pTrdSymbol": "SRF24AUG2260PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152780",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2300",
+            "pTrdSymbol": "SRF24AUG2300PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152782",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2340",
+            "pTrdSymbol": "SRF24AUG2340PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152784",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2380",
+            "pTrdSymbol": "SRF24AUG2380PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152786",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2420",
+            "pTrdSymbol": "SRF24AUG2420PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152788",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "SRF24AUG2460PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152790",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "SRF24AUG2500PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152792",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "SRF24AUG2540PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152794",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "SRF24AUG2580PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152796",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "SRF24AUG2620PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152798",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "SRF24AUG2660PE",
+            "lLotSize": 375
+        },
+        {
+            "pSymbol": "152800",
+            "pSymbolName": "SRF",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "SRF24AUG2700PE",
+            "lLotSize": 375
+        }
+    ],
+    "M&M": [
+        {
+            "pSymbol": "138377",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "M&M24AUG2500PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138379",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2550",
+            "pTrdSymbol": "M&M24AUG2550PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138381",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2650",
+            "pTrdSymbol": "M&M24AUG2650PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138383",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "M&M24AUG2700PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138385",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2750",
+            "pTrdSymbol": "M&M24AUG2750PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138387",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2850",
+            "pTrdSymbol": "M&M24AUG2850PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138389",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "M&M24AUG2900PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138391",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2950",
+            "pTrdSymbol": "M&M24AUG2950PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138395",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3050",
+            "pTrdSymbol": "M&M24AUG3050PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138397",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "M&M24AUG3100PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138439",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3150",
+            "pTrdSymbol": "M&M24AUG3150PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "138447",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "M&M24AUG3300PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "122169",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "M&M24AUG2600PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "122171",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "M&M24AUG2640PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "122215",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "M&M24AUG2800PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "122354",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "M&M24AUG3000PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "122362",
+            "pSymbolName": "M&M",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "M&M24AUG3200PE",
+            "lLotSize": 350
+        }
+    ],
+    "NAVINFLUOR": [
+        {
+            "pSymbol": "129491",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "NAVINFLUOR24AUG3000PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "129501",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "NAVINFLUOR24AUG3200PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "129511",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "NAVINFLUOR24AUG3400PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "129521",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3600",
+            "pTrdSymbol": "NAVINFLUOR24AUG3600PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "129535",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3800",
+            "pTrdSymbol": "NAVINFLUOR24AUG3800PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "129556",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "4000",
+            "pTrdSymbol": "NAVINFLUOR24AUG4000PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149232",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "NAVINFLUOR24AUG3100PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149236",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3250",
+            "pTrdSymbol": "NAVINFLUOR24AUG3250PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149238",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "NAVINFLUOR24AUG3300PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149240",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3350",
+            "pTrdSymbol": "NAVINFLUOR24AUG3350PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149242",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3450",
+            "pTrdSymbol": "NAVINFLUOR24AUG3450PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149244",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3500",
+            "pTrdSymbol": "NAVINFLUOR24AUG3500PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149246",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3550",
+            "pTrdSymbol": "NAVINFLUOR24AUG3550PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149248",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3650",
+            "pTrdSymbol": "NAVINFLUOR24AUG3650PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149250",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3700",
+            "pTrdSymbol": "NAVINFLUOR24AUG3700PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149252",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3750",
+            "pTrdSymbol": "NAVINFLUOR24AUG3750PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149254",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3850",
+            "pTrdSymbol": "NAVINFLUOR24AUG3850PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149256",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3900",
+            "pTrdSymbol": "NAVINFLUOR24AUG3900PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149258",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3950",
+            "pTrdSymbol": "NAVINFLUOR24AUG3950PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "149262",
+            "pSymbolName": "NAVINFLUOR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "4100",
+            "pTrdSymbol": "NAVINFLUOR24AUG4100PE",
+            "lLotSize": 175
+        }
+    ],
+    "GODREJPROP": [
+        {
+            "pSymbol": "81267",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3800",
+            "pTrdSymbol": "GODREJPROP24AUG3800PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118587",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "GODREJPROP24AUG2700PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118647",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2850",
+            "pTrdSymbol": "GODREJPROP24AUG2850PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118649",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "GODREJPROP24AUG2900PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118651",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2950",
+            "pTrdSymbol": "GODREJPROP24AUG2950PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118653",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3050",
+            "pTrdSymbol": "GODREJPROP24AUG3050PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118655",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "GODREJPROP24AUG3100PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118657",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3150",
+            "pTrdSymbol": "GODREJPROP24AUG3150PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118659",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3250",
+            "pTrdSymbol": "GODREJPROP24AUG3250PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118661",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "GODREJPROP24AUG3300PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118663",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3350",
+            "pTrdSymbol": "GODREJPROP24AUG3350PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118665",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3450",
+            "pTrdSymbol": "GODREJPROP24AUG3450PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118667",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3500",
+            "pTrdSymbol": "GODREJPROP24AUG3500PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118726",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3550",
+            "pTrdSymbol": "GODREJPROP24AUG3550PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118730",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3650",
+            "pTrdSymbol": "GODREJPROP24AUG3650PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118735",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3700",
+            "pTrdSymbol": "GODREJPROP24AUG3700PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "118739",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3750",
+            "pTrdSymbol": "GODREJPROP24AUG3750PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "105494",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "GODREJPROP24AUG2800PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "105640",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "GODREJPROP24AUG3000PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "105650",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "GODREJPROP24AUG3200PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "105692",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "GODREJPROP24AUG3400PE",
+            "lLotSize": 225
+        },
+        {
+            "pSymbol": "105718",
+            "pSymbolName": "GODREJPROP",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3600",
+            "pTrdSymbol": "GODREJPROP24AUG3600PE",
+            "lLotSize": 225
+        }
+    ],
+    "NESTLEIND": [
+        {
+            "pSymbol": "129975",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2160",
+            "pTrdSymbol": "NESTLEIND24AUG2160PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129977",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "NESTLEIND24AUG2200PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129979",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2240",
+            "pTrdSymbol": "NESTLEIND24AUG2240PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129981",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "NESTLEIND24AUG2280PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129983",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "NESTLEIND24AUG2320PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129985",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "NESTLEIND24AUG2360PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129987",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "NESTLEIND24AUG2400PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129989",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "NESTLEIND24AUG2440PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129991",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "NESTLEIND24AUG2480PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129993",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "NESTLEIND24AUG2520PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129995",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "NESTLEIND24AUG2560PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129997",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "NESTLEIND24AUG2600PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "129999",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "NESTLEIND24AUG2640PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130001",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "NESTLEIND24AUG2680PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130003",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "NESTLEIND24AUG2720PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130005",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "NESTLEIND24AUG2760PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130007",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "NESTLEIND24AUG2800PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130009",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "NESTLEIND24AUG2840PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130011",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "NESTLEIND24AUG2880PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130013",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "NESTLEIND24AUG2920PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "130019",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "NESTLEIND24AUG2960PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149384",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2300",
+            "pTrdSymbol": "NESTLEIND24AUG2300PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149386",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2340",
+            "pTrdSymbol": "NESTLEIND24AUG2340PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149388",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2380",
+            "pTrdSymbol": "NESTLEIND24AUG2380PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149390",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2420",
+            "pTrdSymbol": "NESTLEIND24AUG2420PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149392",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "NESTLEIND24AUG2460PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149394",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "NESTLEIND24AUG2500PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149396",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "NESTLEIND24AUG2540PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149398",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "NESTLEIND24AUG2580PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149400",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "NESTLEIND24AUG2620PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149402",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "NESTLEIND24AUG2660PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149404",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "NESTLEIND24AUG2700PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149406",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "NESTLEIND24AUG2740PE",
+            "lLotSize": 200
+        },
+        {
+            "pSymbol": "149408",
+            "pSymbolName": "NESTLEIND",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "NESTLEIND24AUG2780PE",
+            "lLotSize": 200
+        }
+    ],
+    "COLPAL": [
+        {
+            "pSymbol": "106637",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "COLPAL24AUG2620PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106639",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "COLPAL24AUG2660PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106641",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "COLPAL24AUG2700PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106643",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "COLPAL24AUG2740PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106647",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "COLPAL24AUG2780PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106651",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "COLPAL24AUG2820PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106655",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "COLPAL24AUG2860PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106658",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "COLPAL24AUG2900PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106661",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "COLPAL24AUG2940PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106663",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "COLPAL24AUG2980PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106666",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3020",
+            "pTrdSymbol": "COLPAL24AUG3020PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106669",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3060",
+            "pTrdSymbol": "COLPAL24AUG3060PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "106671",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "COLPAL24AUG3100PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93879",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "COLPAL24AUG2400PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93881",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "COLPAL24AUG2440PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93883",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "COLPAL24AUG2480PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93885",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "COLPAL24AUG2520PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93889",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "COLPAL24AUG2560PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93891",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "COLPAL24AUG2600PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93893",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "COLPAL24AUG2640PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93897",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "COLPAL24AUG2680PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93899",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "COLPAL24AUG2720PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93901",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "COLPAL24AUG2760PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93903",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "COLPAL24AUG2800PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93905",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "COLPAL24AUG2840PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93907",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "COLPAL24AUG2880PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93911",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "COLPAL24AUG2920PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93921",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "COLPAL24AUG2960PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93970",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "COLPAL24AUG3000PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93974",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "COLPAL24AUG3040PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93976",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "COLPAL24AUG3080PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93978",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "COLPAL24AUG3120PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93980",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "COLPAL24AUG3160PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93984",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "COLPAL24AUG3200PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93986",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3240",
+            "pTrdSymbol": "COLPAL24AUG3240PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93988",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3280",
+            "pTrdSymbol": "COLPAL24AUG3280PE",
+            "lLotSize": 350
+        },
+        {
+            "pSymbol": "93990",
+            "pSymbolName": "COLPAL",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3320",
+            "pTrdSymbol": "COLPAL24AUG3320PE",
+            "lLotSize": 350
+        }
+    ],
+    "TITAN": [
+        {
+            "pSymbol": "147476",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "TITAN24AUG2920PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147478",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "TITAN24AUG2960PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147480",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "TITAN24AUG3000PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147482",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "TITAN24AUG3040PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147484",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "TITAN24AUG3080PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147486",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "TITAN24AUG3120PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147488",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "TITAN24AUG3160PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147490",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "TITAN24AUG3200PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147492",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3240",
+            "pTrdSymbol": "TITAN24AUG3240PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147494",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3280",
+            "pTrdSymbol": "TITAN24AUG3280PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147496",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3320",
+            "pTrdSymbol": "TITAN24AUG3320PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147498",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3360",
+            "pTrdSymbol": "TITAN24AUG3360PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147500",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3400",
+            "pTrdSymbol": "TITAN24AUG3400PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147502",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3440",
+            "pTrdSymbol": "TITAN24AUG3440PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147504",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3480",
+            "pTrdSymbol": "TITAN24AUG3480PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147506",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3520",
+            "pTrdSymbol": "TITAN24AUG3520PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147508",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3560",
+            "pTrdSymbol": "TITAN24AUG3560PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147510",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3600",
+            "pTrdSymbol": "TITAN24AUG3600PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147512",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3640",
+            "pTrdSymbol": "TITAN24AUG3640PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147514",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3680",
+            "pTrdSymbol": "TITAN24AUG3680PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147516",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3720",
+            "pTrdSymbol": "TITAN24AUG3720PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147518",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3760",
+            "pTrdSymbol": "TITAN24AUG3760PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147520",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3800",
+            "pTrdSymbol": "TITAN24AUG3800PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147522",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3840",
+            "pTrdSymbol": "TITAN24AUG3840PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147524",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3880",
+            "pTrdSymbol": "TITAN24AUG3880PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "147526",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3920",
+            "pTrdSymbol": "TITAN24AUG3920PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154326",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3180",
+            "pTrdSymbol": "TITAN24AUG3180PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154328",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3220",
+            "pTrdSymbol": "TITAN24AUG3220PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154330",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3260",
+            "pTrdSymbol": "TITAN24AUG3260PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154332",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3300",
+            "pTrdSymbol": "TITAN24AUG3300PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154334",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3340",
+            "pTrdSymbol": "TITAN24AUG3340PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154336",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3380",
+            "pTrdSymbol": "TITAN24AUG3380PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154338",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3420",
+            "pTrdSymbol": "TITAN24AUG3420PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154340",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3460",
+            "pTrdSymbol": "TITAN24AUG3460PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154342",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3500",
+            "pTrdSymbol": "TITAN24AUG3500PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154344",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3540",
+            "pTrdSymbol": "TITAN24AUG3540PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154346",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3580",
+            "pTrdSymbol": "TITAN24AUG3580PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154348",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3620",
+            "pTrdSymbol": "TITAN24AUG3620PE",
+            "lLotSize": 175
+        },
+        {
+            "pSymbol": "154350",
+            "pSymbolName": "TITAN",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3660",
+            "pTrdSymbol": "TITAN24AUG3660PE",
+            "lLotSize": 175
+        }
+    ],
+    "TORNTPHARM": [
+        {
+            "pSymbol": "147676",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "TORNTPHARM24AUG2360PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147678",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "TORNTPHARM24AUG2400PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147680",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "TORNTPHARM24AUG2440PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147682",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "TORNTPHARM24AUG2480PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147684",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "TORNTPHARM24AUG2520PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147686",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "TORNTPHARM24AUG2560PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147688",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "TORNTPHARM24AUG2600PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147690",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "TORNTPHARM24AUG2640PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147692",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "TORNTPHARM24AUG2680PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147694",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "TORNTPHARM24AUG2720PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147696",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "TORNTPHARM24AUG2760PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147698",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "TORNTPHARM24AUG2800PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147700",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "TORNTPHARM24AUG2840PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147702",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "TORNTPHARM24AUG2880PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147704",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "TORNTPHARM24AUG2920PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147706",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "TORNTPHARM24AUG2960PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147708",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "TORNTPHARM24AUG3000PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147710",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "TORNTPHARM24AUG3040PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147712",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3080",
+            "pTrdSymbol": "TORNTPHARM24AUG3080PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147714",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3120",
+            "pTrdSymbol": "TORNTPHARM24AUG3120PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147716",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3160",
+            "pTrdSymbol": "TORNTPHARM24AUG3160PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147718",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "TORNTPHARM24AUG3200PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "147720",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3240",
+            "pTrdSymbol": "TORNTPHARM24AUG3240PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154538",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "TORNTPHARM24AUG2540PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154540",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "TORNTPHARM24AUG2580PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154542",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "TORNTPHARM24AUG2620PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154544",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "TORNTPHARM24AUG2660PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154546",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "TORNTPHARM24AUG2700PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154548",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "TORNTPHARM24AUG2740PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154550",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "TORNTPHARM24AUG2780PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154552",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "TORNTPHARM24AUG2820PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154554",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "TORNTPHARM24AUG2860PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154556",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "TORNTPHARM24AUG2900PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154558",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "TORNTPHARM24AUG2940PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154560",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "TORNTPHARM24AUG2980PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154562",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3020",
+            "pTrdSymbol": "TORNTPHARM24AUG3020PE",
+            "lLotSize": 250
+        },
+        {
+            "pSymbol": "154564",
+            "pSymbolName": "TORNTPHARM",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3060",
+            "pTrdSymbol": "TORNTPHARM24AUG3060PE",
+            "lLotSize": 250
+        }
+    ],
+    "DEEPAKNTR": [
+        {
+            "pSymbol": "72589",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2920",
+            "pTrdSymbol": "DEEPAKNTR24AUG2920PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98570",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2160",
+            "pTrdSymbol": "DEEPAKNTR24AUG2160PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98572",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2200",
+            "pTrdSymbol": "DEEPAKNTR24AUG2200PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98590",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2240",
+            "pTrdSymbol": "DEEPAKNTR24AUG2240PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98594",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2280",
+            "pTrdSymbol": "DEEPAKNTR24AUG2280PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98598",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2320",
+            "pTrdSymbol": "DEEPAKNTR24AUG2320PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98602",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2360",
+            "pTrdSymbol": "DEEPAKNTR24AUG2360PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98606",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "DEEPAKNTR24AUG2400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98610",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2440",
+            "pTrdSymbol": "DEEPAKNTR24AUG2440PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98614",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2480",
+            "pTrdSymbol": "DEEPAKNTR24AUG2480PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98627",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2520",
+            "pTrdSymbol": "DEEPAKNTR24AUG2520PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98642",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2560",
+            "pTrdSymbol": "DEEPAKNTR24AUG2560PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98644",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "DEEPAKNTR24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98646",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2640",
+            "pTrdSymbol": "DEEPAKNTR24AUG2640PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98648",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2680",
+            "pTrdSymbol": "DEEPAKNTR24AUG2680PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98650",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2720",
+            "pTrdSymbol": "DEEPAKNTR24AUG2720PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98652",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2760",
+            "pTrdSymbol": "DEEPAKNTR24AUG2760PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98654",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "DEEPAKNTR24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98656",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2880",
+            "pTrdSymbol": "DEEPAKNTR24AUG2880PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98658",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2960",
+            "pTrdSymbol": "DEEPAKNTR24AUG2960PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "98660",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3040",
+            "pTrdSymbol": "DEEPAKNTR24AUG3040PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "51356",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2840",
+            "pTrdSymbol": "DEEPAKNTR24AUG2840PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "75777",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "DEEPAKNTR24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110571",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2260",
+            "pTrdSymbol": "DEEPAKNTR24AUG2260PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110596",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2300",
+            "pTrdSymbol": "DEEPAKNTR24AUG2300PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110598",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2340",
+            "pTrdSymbol": "DEEPAKNTR24AUG2340PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110603",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2380",
+            "pTrdSymbol": "DEEPAKNTR24AUG2380PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110607",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2420",
+            "pTrdSymbol": "DEEPAKNTR24AUG2420PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110609",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2460",
+            "pTrdSymbol": "DEEPAKNTR24AUG2460PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110615",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "DEEPAKNTR24AUG2500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110617",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2540",
+            "pTrdSymbol": "DEEPAKNTR24AUG2540PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110619",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2580",
+            "pTrdSymbol": "DEEPAKNTR24AUG2580PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110621",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2620",
+            "pTrdSymbol": "DEEPAKNTR24AUG2620PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110651",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2660",
+            "pTrdSymbol": "DEEPAKNTR24AUG2660PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110655",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "DEEPAKNTR24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110657",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2740",
+            "pTrdSymbol": "DEEPAKNTR24AUG2740PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110659",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2780",
+            "pTrdSymbol": "DEEPAKNTR24AUG2780PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110663",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2820",
+            "pTrdSymbol": "DEEPAKNTR24AUG2820PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110665",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2860",
+            "pTrdSymbol": "DEEPAKNTR24AUG2860PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110667",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "DEEPAKNTR24AUG2900PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110669",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2940",
+            "pTrdSymbol": "DEEPAKNTR24AUG2940PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "110671",
+            "pSymbolName": "DEEPAKNTR",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2980",
+            "pTrdSymbol": "DEEPAKNTR24AUG2980PE",
+            "lLotSize": 300
+        }
+    ],
+    "LALPATHLAB": [
+        {
+            "pSymbol": "135315",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2500",
+            "pTrdSymbol": "LALPATHLAB24AUG2500PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135321",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2550",
+            "pTrdSymbol": "LALPATHLAB24AUG2550PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135323",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2650",
+            "pTrdSymbol": "LALPATHLAB24AUG2650PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135325",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2700",
+            "pTrdSymbol": "LALPATHLAB24AUG2700PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135335",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2750",
+            "pTrdSymbol": "LALPATHLAB24AUG2750PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135345",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2850",
+            "pTrdSymbol": "LALPATHLAB24AUG2850PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135355",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2900",
+            "pTrdSymbol": "LALPATHLAB24AUG2900PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135473",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2950",
+            "pTrdSymbol": "LALPATHLAB24AUG2950PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135475",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3050",
+            "pTrdSymbol": "LALPATHLAB24AUG3050PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "135477",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3100",
+            "pTrdSymbol": "LALPATHLAB24AUG3100PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "118625",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2400",
+            "pTrdSymbol": "LALPATHLAB24AUG2400PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "118635",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2600",
+            "pTrdSymbol": "LALPATHLAB24AUG2600PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "118672",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "2800",
+            "pTrdSymbol": "LALPATHLAB24AUG2800PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "118682",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3000",
+            "pTrdSymbol": "LALPATHLAB24AUG3000PE",
+            "lLotSize": 300
+        },
+        {
+            "pSymbol": "118795",
+            "pSymbolName": "LALPATHLAB",
+            "pOptionType": "PE",
+            "dStrikePrice;": "3200",
+            "pTrdSymbol": "LALPATHLAB24AUG3200PE",
+            "lLotSize": 300
+        }
+    ]
+}

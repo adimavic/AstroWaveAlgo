@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modify JSON Data</title>
+</head>
+<body>
+    <h1>Modify JSON Data</h1>
+    
+    <form method="POST">
+        <div>
+            <label for="symbol">Select Symbol:</label>
+            <select name="symbol" id="symbol">
+                {% for symbol in symbols %}
+                    <option value="{{ symbol.key }}">{{ symbol.key }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="totrade">Totrade Value:</label>
+            <select name="totrade" id="totrade">
+                <option value="True">True</option>
+                <option value="False">False</option>
+            </select>
+        </div>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

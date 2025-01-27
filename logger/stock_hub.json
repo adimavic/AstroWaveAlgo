@@ -1,0 +1,1161 @@
+{
+    "startAt": "9:15",
+    "endAt": "2:59",
+    "exitAt": 0,
+    "capital": 2500,
+    "cap_utized": 1681.1100000000001,
+    "total": 22,
+    "closing_time": 63,
+    "sl_time": 21,
+    "target": 4,
+    "volatile_sl": false,
+    "volatile_sl_no": 2,
+    "debug": false,
+    "symbols": [
+        {
+            "key": "HINDUNILVR-EQ",
+            "key_yf": "HINDUNILVR.NS",
+            "key_tv": "HINDUNILVR",
+            "instrument_token": "1394",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": "buy",
+            "target_level": 2730.0625,
+            "price_list": [
+                2673.15,
+                2673.15
+            ],
+            "crossed_levels": [
+                2665.140625,
+                2678.0625
+            ],
+            "detected_level": 2678.0625,
+            "shapes": [
+                {
+                    "level": 2665.140625,
+                    "shape": [
+                        2665.7,
+                        2658.85
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": true,
+                    "low": 2658.85,
+                    "high": 2665.7,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:15:39",
+                    "endshapetime": "2024-10-23 09:20:00",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": true,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                },
+                {
+                    "level": 2678.0625,
+                    "shape": [
+                        2676.8,
+                        2673.15
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:29:53",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ],
+            "backup_sl": 2658.85,
+            "traded_level": 2665.140625
+        },
+        {
+            "key": "TVSMOTOR-EQ",
+            "key_yf": "TVSMOTOR.NS",
+            "key_tv": "TVSMOTOR",
+            "instrument_token": "8479",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2703.7,
+                2703.7
+            ],
+            "crossed_levels": [
+                2665.140625,
+                2678.0625,
+                2704.0
+            ],
+            "detected_level": 2704.0,
+            "shapes": [
+                {
+                    "level": 2704.0,
+                    "shape": [
+                        2703.7
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:30:34",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "PIDILITIND-EQ",
+            "key_yf": "PIDILITIND.NS",
+            "key_tv": "PIDILITIND",
+            "instrument_token": "2664",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": "sell",
+            "target_level": 3094.140625,
+            "price_list": [
+                3128.6,
+                3128.6
+            ],
+            "crossed_levels": [
+                3136.0
+            ],
+            "detected_level": 3136.0,
+            "shapes": [
+                {
+                    "level": 3136.0,
+                    "shape": [
+                        3137.95,
+                        3125.5
+                    ],
+                    "shape_buy": true,
+                    "shape_sell": null,
+                    "volume": true,
+                    "low": 3125.5,
+                    "high": 3137.95,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:15:51",
+                    "endshapetime": "2024-10-23 09:22:55",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": true,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ],
+            "backup_sl": 3137.95,
+            "traded_level": 3136.0
+        },
+        {
+            "key": "RELIANCE-EQ",
+            "key_yf": "RELIANCE.NS",
+            "key_tv": "RELIANCE",
+            "instrument_token": "2885",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2682.3,
+                2682.3
+            ],
+            "crossed_levels": [
+                2678.0625
+            ],
+            "detected_level": 2678.0625,
+            "shapes": [
+                {
+                    "level": 2678.0625,
+                    "shape": [
+                        2689.85,
+                        2672.3
+                    ],
+                    "shape_buy": true,
+                    "shape_sell": null,
+                    "volume": true,
+                    "low": 2672.3,
+                    "high": 2689.85,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:18:31",
+                    "endshapetime": "2024-10-23 09:28:51",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "INDIAMART-EQ",
+            "key_yf": "INDIAMART.NS",
+            "key_tv": "INDIAMART",
+            "instrument_token": "10726",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2472.0,
+                2472.0
+            ],
+            "crossed_levels": [
+                2475.0625,
+                2462.640625,
+                2450.25
+            ],
+            "detected_level": 2475.0625,
+            "shapes": [
+                {
+                    "level": 2475.0625,
+                    "shape": [
+                        2474.25,
+                        2470.05
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:29:40",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "SHRIRAMFIN-EQ",
+            "key_yf": "SHRIRAMFIN.NS",
+            "key_tv": "SHRIRAMFIN",
+            "instrument_token": "4306",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                3198.65,
+                3198.65
+            ],
+            "crossed_levels": [
+                3220.5625,
+                3206.390625,
+                3249.0
+            ],
+            "detected_level": 3206.390625,
+            "shapes": [
+                {
+                    "level": 3206.390625,
+                    "shape": [
+                        3211.95,
+                        3193.65
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": true,
+                    "low": 3193.65,
+                    "high": 3211.95,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:25:11",
+                    "endshapetime": "2024-10-23 09:28:31",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "MPHASIS-EQ",
+            "key_yf": "MPHASIS.NS",
+            "key_tv": "MPHASIS",
+            "instrument_token": "4503",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                3003.9,
+                3003.9
+            ],
+            "crossed_levels": [
+                2997.5625
+            ],
+            "detected_level": 2997.5625,
+            "shapes": [
+                {
+                    "level": 2997.5625,
+                    "shape": [
+                        3024.8,
+                        2998.5
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:20:46",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "ACC-EQ",
+            "key_yf": "ACC.NS",
+            "key_tv": "ACC",
+            "instrument_token": "22",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": 2316.015625,
+            "price_list": [
+                2265.0,
+                2265.0
+            ],
+            "crossed_levels": [
+                2244.390625,
+                2256.25,
+                2268.140625
+            ],
+            "detected_level": 2268.140625,
+            "shapes": [
+                {
+                    "level": 2256.25,
+                    "shape": [
+                        2264.45,
+                        2244.5
+                    ],
+                    "shape_buy": true,
+                    "shape_sell": null,
+                    "volume": true,
+                    "low": 2244.5,
+                    "high": 2264.45,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:20:18",
+                    "endshapetime": "2024-10-23 09:27:58",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                },
+                {
+                    "level": 2268.140625,
+                    "shape": [
+                        2268.05,
+                        2262.05
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:29:02",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "ASIANPAINT-EQ",
+            "key_yf": "ASIANPAINT.NS",
+            "key_tv": "ASIANPAINT",
+            "instrument_token": "236",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2981.0,
+                2981.0
+            ],
+            "crossed_levels": [
+                2997.5625,
+                2983.890625
+            ],
+            "detected_level": 2983.890625,
+            "shapes": [
+                {
+                    "level": 2983.890625,
+                    "shape": [
+                        2988.2,
+                        2974.3
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": null,
+                    "low": 2974.3,
+                    "high": 2988.2,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:25:09",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "BALKRISIND-EQ",
+            "key_yf": "BALKRISIND.NS",
+            "key_tv": "BALKRISIND",
+            "instrument_token": "335",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": 2997.5625,
+            "price_list": [
+                2948.45,
+                2948.45
+            ],
+            "crossed_levels": [
+                2943.0625,
+                2929.515625,
+                2956.640625
+            ],
+            "detected_level": 2956.640625,
+            "shapes": [
+                {
+                    "level": 2943.0625,
+                    "shape": [
+                        2949.7,
+                        2931.15
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": true,
+                    "low": 2931.15,
+                    "high": 2949.7,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:18:56",
+                    "endshapetime": "2024-10-23 09:23:54",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                },
+                {
+                    "level": 2956.640625,
+                    "shape": [
+                        2955.0,
+                        2946.25
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:29:32",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "GRASIM-EQ",
+            "key_yf": "GRASIM.NS",
+            "key_tv": "GRASIM",
+            "instrument_token": "1232",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": "buy",
+            "target_level": 2717.015625,
+            "price_list": [
+                2656.95,
+                2656.95
+            ],
+            "crossed_levels": [
+                2652.25,
+                2639.390625
+            ],
+            "detected_level": 2652.25,
+            "shapes": [
+                {
+                    "level": 2652.25,
+                    "shape": [
+                        2655.65,
+                        2641.85
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": true,
+                    "low": 2641.85,
+                    "high": 2655.65,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:15:50",
+                    "endshapetime": "2024-10-23 09:22:25",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": true,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 1
+                    }
+                },
+                {
+                    "level": 2639.390625,
+                    "shape": [
+                        2652.05,
+                        2640.35
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:27:16",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ],
+            "backup_sl": 2641.85,
+            "traded_level": 2652.25
+        },
+        {
+            "key": "SRF-EQ",
+            "key_yf": "SRF.NS",
+            "key_tv": "SRF",
+            "instrument_token": "3273",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2213.7,
+                2213.7
+            ],
+            "crossed_levels": [
+                2232.5625,
+                2220.765625,
+                2244.390625,
+                2209.0
+            ],
+            "detected_level": 2220.765625,
+            "shapes": [
+                {
+                    "level": 2220.765625,
+                    "shape": [
+                        2220.3,
+                        2213.15
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:29:12",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "ADANIENT-EQ",
+            "key_yf": "ADANIENT.NS",
+            "key_tv": "ADANIENT",
+            "instrument_token": "25",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2866.0,
+                2866.0
+            ],
+            "crossed_levels": [
+                2835.5625,
+                2848.890625,
+                2862.25
+            ],
+            "detected_level": 2862.25,
+            "shapes": [
+                {
+                    "level": 2862.25,
+                    "shape": [
+                        2866.95,
+                        2863.0
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:30:14",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "M&M-EQ",
+            "key_yf": "M&M.NS",
+            "key_tv": "M_M",
+            "instrument_token": "2031",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2839.0,
+                2839.0
+            ],
+            "crossed_levels": [
+                2848.890625,
+                2835.5625
+            ],
+            "detected_level": 2848.890625,
+            "shapes": [
+                {
+                    "level": 2848.890625,
+                    "shape": [
+                        2848.6,
+                        2838.0
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": "inprogress",
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:28:53",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "NAVINFLUOR-EQ",
+            "key_yf": "NAVINFLUOR.NS",
+            "key_tv": "NAVINFLUOR",
+            "instrument_token": "14672",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                3235.65,
+                3235.65
+            ],
+            "crossed_levels": [
+                3206.390625,
+                3220.5625
+            ],
+            "detected_level": 3220.5625,
+            "shapes": [
+                {
+                    "level": 3220.5625,
+                    "shape": [
+                        3247.8,
+                        3222.4
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:27:48",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "GODREJPROP-EQ",
+            "key_yf": "GODREJPROP.NS",
+            "key_tv": "GODREJPROP",
+            "instrument_token": "17875",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2896.85,
+                2896.85
+            ],
+            "crossed_levels": [
+                2889.0625,
+                2916.0,
+                2929.515625,
+                2875.640625
+            ],
+            "detected_level": 2889.0625,
+            "shapes": [
+                {
+                    "level": 2889.0625,
+                    "shape": [
+                        2909.9,
+                        2889.45
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:27:51",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "NESTLEIND-EQ",
+            "key_yf": "NESTLEIND.NS",
+            "key_tv": "NESTLEIND",
+            "instrument_token": "17963",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2365.35,
+                2365.35
+            ],
+            "crossed_levels": [
+                2364.390625
+            ],
+            "detected_level": 2364.390625,
+            "shapes": [
+                {
+                    "level": 2364.390625,
+                    "shape": [
+                        2373.0,
+                        2355.0
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": null,
+                    "low": 2355.0,
+                    "high": 2373.0,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:15:25",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "COLPAL-EQ",
+            "key_yf": "COLPAL.NS",
+            "key_tv": "COLPAL",
+            "instrument_token": "15141",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                3328.15,
+                3328.15
+            ],
+            "crossed_levels": [
+                3335.0625,
+                3320.640625
+            ],
+            "detected_level": 3320.640625,
+            "shapes": [
+                {
+                    "level": 3320.640625,
+                    "shape": [
+                        3330.9,
+                        3320.15
+                    ],
+                    "shape_buy": true,
+                    "shape_sell": null,
+                    "volume": true,
+                    "low": 3320.15,
+                    "high": 3330.9,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:21:39",
+                    "endshapetime": "2024-10-23 09:28:07",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "TITAN-EQ",
+            "key_yf": "TITAN.NS",
+            "key_tv": "TITAN",
+            "instrument_token": "3506",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": 3393.0625,
+            "price_list": [
+                3321.45,
+                3321.45
+            ],
+            "crossed_levels": [
+                3320.640625
+            ],
+            "detected_level": 3320.640625,
+            "shapes": [
+                {
+                    "level": 3320.640625,
+                    "shape": [
+                        3325.8,
+                        3307.2
+                    ],
+                    "shape_buy": true,
+                    "shape_sell": null,
+                    "volume": true,
+                    "low": 3307.2,
+                    "high": 3325.8,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:15:55",
+                    "endshapetime": "2024-10-23 09:27:15",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "TORNTPHARM-EQ",
+            "key_yf": "TORNTPHARM.NS",
+            "key_tv": "TORNTPHARM",
+            "instrument_token": "3518",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                3346.0,
+                3346.0
+            ],
+            "crossed_levels": [
+                3364.0,
+                3335.0625
+            ],
+            "detected_level": 3335.0625,
+            "shapes": [
+                {
+                    "level": 3335.0625,
+                    "shape": [
+                        3356.2,
+                        3325.1
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": null,
+                    "low": 3325.1,
+                    "high": 3356.2,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:24:57",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "DEEPAKNTR-EQ",
+            "key_yf": "DEEPAKNTR.NS",
+            "key_tv": "DEEPAKNTR",
+            "instrument_token": "19943",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": null,
+            "price_list": [
+                2686.0,
+                2686.0
+            ],
+            "crossed_levels": [
+                2652.25,
+                2665.140625,
+                2678.0625
+            ],
+            "detected_level": 2678.0625,
+            "shapes": [
+                {
+                    "level": 2678.0625,
+                    "shape": [
+                        2692.0,
+                        2679.4
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:28:24",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ]
+        },
+        {
+            "key": "LALPATHLAB-EQ",
+            "key_yf": "LALPATHLAB.NS",
+            "key_tv": "LALPATHLAB",
+            "instrument_token": "11654",
+            "totrade": true,
+            "pyramid": null,
+            "lotsize": null,
+            "position": null,
+            "target_level": 3364.0,
+            "price_list": [
+                3309.4,
+                3309.4
+            ],
+            "crossed_levels": [
+                3306.25,
+                3291.890625
+            ],
+            "detected_level": 3306.25,
+            "shapes": [
+                {
+                    "level": 3291.890625,
+                    "shape": [
+                        3293.7,
+                        3281.25
+                    ],
+                    "shape_buy": null,
+                    "shape_sell": true,
+                    "volume": true,
+                    "low": 3281.25,
+                    "high": 3293.7,
+                    "status": "completed",
+                    "shapetime": "2024-10-23 09:19:54",
+                    "endshapetime": "2024-10-23 09:22:36",
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": "2024-10-23 09:27:52",
+                        "sl_no": 1
+                    }
+                },
+                {
+                    "level": 3306.25,
+                    "shape": [
+                        3312.1,
+                        3307.3
+                    ],
+                    "shape_buy": "inprogress",
+                    "shape_sell": null,
+                    "volume": null,
+                    "low": null,
+                    "high": null,
+                    "status": null,
+                    "shapetime": "2024-10-23 09:29:52",
+                    "endshapetime": null,
+                    "trade": {
+                        "option_token": null,
+                        "option_symbol": null,
+                        "lotsize": null,
+                        "buy": null,
+                        "sell": null,
+                        "stoploss_counter": null,
+                        "sl_no": 0
+                    }
+                }
+            ],
+            "backup_sl": 3293.7,
+            "traded_level": 3291.890625
+        }
+    ]
+}
