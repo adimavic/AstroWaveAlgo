@@ -1,7 +1,3 @@
-Here’s a clean, professional README tailored to match the tone and style of the documentation provided in the Medium article:
-
----
-
 # AstroWaveAlgo 🌌📈  
 
 AstroWaveAlgo is a unique and powerful algorithmic trading system that integrates **astrological levels** with **M and W chart patterns** to identify and execute high-probability trades in the stock market. By blending technical analysis, volume confirmation, and astro-based benchmarks, this algo delivers a cutting-edge solution for traders aiming to maximize their efficiency and profitability.  
@@ -70,7 +66,8 @@ AstroWaveAlgo is built around a systematic and logical workflow:
 ## 📧 Contact  
 
 Have questions or suggestions? Feel free to reach out:  
-**Email**: adityakale@gmail.com  
+**Email**: adityakale@gmail.com
+**Medium**: https://adityakale732.medium.com/algo-trading-using-python-1a729ba00062
 
 ---
 
